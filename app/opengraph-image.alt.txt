@@ -1,0 +1,1 @@
+edgekit — prove the edge: a systematic-trading research toolkit (load, backtest, prove, size, ship).
